@@ -17,4 +17,24 @@ Login Screen
 ![Login Screen](https://github.com/Hedra-Nabil/market-management-system-/blob/main/Screenshot%20(679).png)
 Wearhouse dashboard screen 
 ![Wearhouse Screen](https://github.com/Hedra-Nabil/market-management-system-/blob/main/Screenshot%20(680).png)
+![Wearhouse Screen](https://github.com/Hedra-Nabil/market-management-system-/blob/main/Screenshot%20(681).png)
+![Wearhouse Screen](https://github.com/Hedra-Nabil/market-management-system-/blob/main/Screenshot%20(682).png)
+![Wearhouse Screen](https://github.com/Hedra-Nabil/market-management-system-/blob/main/Screenshot%20(683).png)
+![Wearhouse Screen](https://github.com/Hedra-Nabil/market-management-system-/blob/main/Screenshot%20(684).png)
+![Wearhouse Screen](https://github.com/Hedra-Nabil/market-management-system-/blob/main/Screenshot%20(685).png)
+![Wearhouse Screen](https://github.com/Hedra-Nabil/market-management-system-/blob/main/Screenshot%20(686).png)
+![Wearhouse Screen](https://github.com/Hedra-Nabil/market-management-system-/blob/main/Screenshot%20(687).png)
+![Wearhouse Screen](https://github.com/Hedra-Nabil/market-management-system-/blob/main/Screenshot%20(688).png)
+![Wearhouse Screen](https://github.com/Hedra-Nabil/market-management-system-/blob/main/Screenshot%20(689).png)
+![Wearhouse Screen](https://github.com/Hedra-Nabil/market-management-system-/blob/main/Screenshot%20(690).png)
+
+
+
+
+
+
+
+
+
+
 
