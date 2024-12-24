@@ -13,4 +13,8 @@ to setup exe :-
 link 🔗 https://drive.google.com/file/d/1fhzMh3hn1hMVwdEgsrZLL35ISNgr4eJd/view?usp=sharing
 
 screen's
+Login Screen
 ![Login Screen](https://github.com/Hedra-Nabil/market-management-system-/blob/main/Screenshot%20(679).png)
+Wearhouse dashboard screen 
+![Wearhouse Screen](https://github.com/Hedra-Nabil/market-management-system-/blob/main/Screenshot%20(679).png](https://github.com/Hedra-Nabil/market-management-system-/blob/main/Screenshot%20(680).png)
+
