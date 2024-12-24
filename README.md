@@ -16,5 +16,5 @@ screen's
 Login Screen
 ![Login Screen](https://github.com/Hedra-Nabil/market-management-system-/blob/main/Screenshot%20(679).png)
 Wearhouse dashboard screen 
-![Wearhouse Screen](https://github.com/Hedra-Nabil/market-management-system-/blob/main/Screenshot%20(679).png](https://github.com/Hedra-Nabil/market-management-system-/blob/main/Screenshot%20(680).png)
+![Wearhouse Screen](https://github.com/Hedra-Nabil/market-management-system-/blob/main/Screenshot%20(680).png)
 
