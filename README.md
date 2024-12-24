@@ -11,3 +11,6 @@ The system is designed to be user-friendly, providing a smooth user experience w
 
 to setup exe :-
 link 🔗 https://drive.google.com/file/d/1fhzMh3hn1hMVwdEgsrZLL35ISNgr4eJd/view?usp=sharing
+
+screen's
+![Login Screen]([screenshots/login_screen.png](https://github.com/Hedra-Nabil/market-management-system-/blob/main/Screenshot%20(679).png))
