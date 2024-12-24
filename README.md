@@ -27,6 +27,24 @@ Wearhouse dashboard screen
 ![Wearhouse Screen](https://github.com/Hedra-Nabil/market-management-system-/blob/main/Screenshot%20(688).png)
 ![Wearhouse Screen](https://github.com/Hedra-Nabil/market-management-system-/blob/main/Screenshot%20(689).png)
 ![Wearhouse Screen](https://github.com/Hedra-Nabil/market-management-system-/blob/main/Screenshot%20(690).png)
+![Wearhouse Screen](https://github.com/Hedra-Nabil/market-management-system-/blob/main/Screenshot%20(691).png)
+![Wearhouse Screen](https://github.com/Hedra-Nabil/market-management-system-/blob/main/Screenshot%20(692).png)
+![Wearhouse Screen](https://github.com/Hedra-Nabil/market-management-system-/blob/main/Screenshot%20(693).png)
+![Wearhouse Screen](https://github.com/Hedra-Nabil/market-management-system-/blob/main/Screenshot%20(694).png)
+![Wearhouse Screen](https://github.com/Hedra-Nabil/market-management-system-/blob/main/Screenshot%20(695).png)
+![Wearhouse Screen](https://github.com/Hedra-Nabil/market-management-system-/blob/main/Screenshot%20(696).png)
+![Wearhouse Screen](https://github.com/Hedra-Nabil/market-management-system-/blob/main/Screenshot%20(697).png)
+![Wearhouse Screen](https://github.com/Hedra-Nabil/market-management-system-/blob/main/Screenshot%20(698).png)
+![Wearhouse Screen](https://github.com/Hedra-Nabil/market-management-system-/blob/main/Screenshot%20(699).png)
+![Wearhouse Screen](https://github.com/Hedra-Nabil/market-management-system-/blob/main/Screenshot%20(670).png)
+![Wearhouse Screen](https://github.com/Hedra-Nabil/market-management-system-/blob/main/Screenshot%20(671).png)
+![Wearhouse Screen](https://github.com/Hedra-Nabil/market-management-system-/blob/main/Screenshot%20(672).png)
+![Wearhouse Screen](https://github.com/Hedra-Nabil/market-management-system-/blob/main/Screenshot%20(673).png)
+![Wearhouse Screen](https://github.com/Hedra-Nabil/market-management-system-/blob/main/Screenshot%20(674).png)
+![Wearhouse Screen](https://github.com/Hedra-Nabil/market-management-system-/blob/main/Screenshot%20(675).png)
+
+
+
 
 
 
