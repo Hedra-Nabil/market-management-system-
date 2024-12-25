@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d2af5dae-ca63-463d-8d06-256c26be45a3" name="hedra" url="http://localhost">
+        <fileTransfer mountedRoot="D:\" accessType="MOUNT" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>
